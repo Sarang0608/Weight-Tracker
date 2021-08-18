@@ -1,0 +1,22 @@
+.form {
+    position: absolute;
+    top: 500px;
+    left: 400px;
+    text-align: center;
+}
+.date,
+.weight {
+    display: inline-block;
+    margin: 20px;
+}
+
+.submit {
+    position: absolute;
+    left: 350px;
+    background: #5D5FEF;
+    display: block;
+    color: white;
+    font-weight: bold;
+    border-radius: 15px;
+    padding: 15px;
+}

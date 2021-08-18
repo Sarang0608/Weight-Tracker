@@ -1,0 +1,40 @@
+.header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 10%;
+    width: 100%;
+    background: #5D5FEF;
+    display: inline-block;
+    z-index: 100;
+}
+
+.logo {
+    position: relative;
+    left: 25px;
+    top: auto;
+    height: 100%;
+    width: 5%;
+    display: inline-block;
+}
+
+.app-name {
+    position: relative;
+    left: 45px;
+    bottom: 30px;
+    color: whitesmoke;
+    display: inline-block;
+}
+
+.profile-image {
+    position: relative;
+    left: 75%;
+    bottom: 39px;
+    background: white;
+    color:white;
+    display: inline-block;
+    border-radius: 50px;
+    height: 100%;
+    width: 5%;
+    background: url('../../assets/profile-pic.png');
+}

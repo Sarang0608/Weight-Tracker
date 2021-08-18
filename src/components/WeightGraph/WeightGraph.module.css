@@ -1,0 +1,23 @@
+.weight-graph {
+    position: absolute;
+    top: 53px;
+    text-align: center;
+    display: inline-block;
+}
+
+.header {
+    position: absolute;
+    top: 50px;
+    left: 400px;
+    color: black;
+    display: block;
+    font-weight: bold;
+}
+
+.graph {
+    position: relative;
+    top: 150px;
+    left: 500px;
+    height: 250px;
+    width: 500px;
+}
